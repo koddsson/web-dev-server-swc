@@ -57,10 +57,16 @@
     "ua-parser-js": "^1.0.2"
   },
   "devDependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
     "@types/ua-parser-js": "^0.7.35",
     "@web/dev-server-rollup": "^0.3.3",
+    "chai": "^4.3.6",
     "lit-element": "^3.0.0",
+    "mocha": "^10.0.0",
     "node-fetch": "3.0.0-beta.9",
-    "preact": "^10.5.9"
+    "portfinder": "^1.0.28",
+    "preact": "^10.5.9",
+    "ts-node": "^10.8.0"
   }
 }
