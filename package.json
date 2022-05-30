@@ -1,5 +1,5 @@
 {
-  "name": "@web/dev-server-swc",
+  "name": "@koddsson/wev-dev-server-swc",
   "version": "0.0.0",
   "publishConfig": {
     "access": "public"
@@ -8,11 +8,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/modernweb-dev/web.git",
+    "url": "https://github.com/koddsson/web-dev-server-swc.git",
     "directory": "packages/dev-server-swc"
   },
   "author": "modern-web",
-  "homepage": "https://github.com/modernweb-dev/web/tree/master/packages/dev-server-swc",
+  "homepage": "https://github.com/koddsson/web-dev-server-swc",
   "main": "dist/index.js",
   "exports": {
     ".": {
